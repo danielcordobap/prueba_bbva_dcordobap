@@ -130,7 +130,7 @@ Ademas de este analisis, se hizo una particion de la poblacion evaluada por tasa
 | 800-900 | 29 | 0.117002 | 2 | 27 | 93.103448 | 859.655172 | 804 | 900 |
 | 900-1000 | 190 | 0.766562 | 3 | 187 | 98.421053 | 976.752632 | 906 | 999 |
 
-Con esto tambien se obtuvo un punto de corte para aprobar o rechazar a un nuevo usuario con este modelo, este punto es igual a 226 puntos ( Metodologia optimizacion F1). El cual se alinea a los resultados de la tabla ya que despues del segundo grupo la tasa de malos aumenta de forma significativa.
+Con esto tambien se obtuvo un punto de corte para aprobar o rechazar a un nuevo usuario con este modelo, este punto es igual a 100 puntos ( Metodologia optimizacionpor costos asociados). El cual se alinea a los resultados de la tabla ya que despues del segundo grupo la tasa de malos aumenta de forma significativa y este punto de corte se encuentra entre el primer y segundo grupo.
 
 
 ### Conclusiones Finales:
