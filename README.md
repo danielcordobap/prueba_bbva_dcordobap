@@ -19,7 +19,7 @@ Comparando el performance de ambos modelos, obtuvimos estos resultados:
 <img width="970" height="389" alt="image" src="https://github.com/user-attachments/assets/029f117d-50b0-45e5-abf7-1859ede84d26" />
 Esto indica que ajustando ambos algoritmos con estas variables : 
 
-             | Variable |
+| Variable |
 |----------|
 | tasa |
 | monto_log |
