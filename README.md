@@ -19,25 +19,27 @@ Comparando el performance de ambos modelos, obtuvimos estos resultados:
 <img width="970" height="389" alt="image" src="https://github.com/user-attachments/assets/029f117d-50b0-45e5-abf7-1859ede84d26" />
 Esto indica que ajustando ambos algoritmos con estas variables : 
 
-                 * tasa    
-                 * monto_log    
-                 * cuota_log     
-                 * estrato_5   
-  * tipocont_sin_informacion    
-  * tipovivi_sin_informacion    
-  *        niveledu_primaria    
-  *             oficina_c85z    
-  *    niveledu_bachillerato    
-* tipocont_termino_indefinido    
-  *                saldo_log     
-  *             oficina_c84a    
-  *   ocupacio_independiente   
-  *             oficina_c89d    
-  *               egrtot_log    
-  *              aportes_log   
-  *            sexo_femenino   
-  *             oficina_c87z    
-  *                estrato_3    
-  *               ingtot_log    -
+             | Variable | 
+|----------|
+| tasa | |
+| monto_log | |
+| cuota_log | |
+| estrato_5 | |
+| tipocont_sin_informacion | |
+| tipovivi_sin_informacion | |
+| niveledu_primaria | |
+| oficina_c85z | |
+| niveledu_bachillerato | |
+| tipocont_termino_indefinido | |
+| saldo_log | |
+| oficina_c84a | |
+| ocupacio_independiente | |
+| oficina_c89d | |
+| egrtot_log | |
+| aportes_log | |
+| sexo_femenino | |
+| oficina_c87z | |
+| estrato_3 | |
+| ingtot_log | |
 
 
