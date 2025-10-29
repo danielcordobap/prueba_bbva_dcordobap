@@ -10,6 +10,13 @@ Empleados "Malos": Tanto en el estrato 2 como en el 3, la permanencia promedio e
 
 Un hallazgo particularmente interesante es que el ingreso promedio resulta ser mayor en las personas clasificadas como "Malas" que en el grupo "Bueno". Sin embargo, esta aparente paradoja se explica al observar que quienes mantienen saldos más altos tienden a presentar un comportamiento de pago deficiente.
 
+Ahora bien ajustando el modelo, para predecir a nuevos clientes basandonos en sus caracteristicas. Tenemos que el metodo que se uso para obtener el modelo mas parsimonico fue ajustar un xgboost y tomar las top 20 variables mas importantes y luego un modelo logistico.
+
+Adicionalmente antes de este ajuste se hicieon un par de transformaciones a algunas variables ( las cuales se podran detallar en el jupyter notebook de este repositorio).
+
+Comparando el performance de ambos modelos, obtuvimos estos resultados:
+
+<img width="970" height="389" alt="image" src="https://github.com/user-attachments/assets/029f117d-50b0-45e5-abf7-1859ede84d26" />
 
 
 
